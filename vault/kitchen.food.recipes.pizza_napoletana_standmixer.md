@@ -2,19 +2,19 @@
 id: su750gvr3hwfzes206knk1d
 title: Pizza Napoletana (Stand Mixer, High Hydration)
 desc: ''
-updated: 1653076043915
+updated: 1653077080214
 created: 1653063079218
 ---
 
 Hydration: 75%
 
-Ingredients:
+## Ingredients:
 * 1Kg flour
 * 2g fresh yeast
 * 750g water
 * 20g salt
 
-Process:
+## Process:
 
 1. Mix flour + yeast using the hook, low speed 
 2. Add 600g of water and wait for a compact mixture
