@@ -84,7 +84,7 @@ publishing:
         - root
     enableSiteLastModified: true
     siteRootDir: docs
-    siteUrl: 'https://mircoporetti.me/knowledge/'
+    siteUrl: 'https://mircoporetti.me/'
     enableFrontmatterTags: true
     enableHashesForFMTags: false
     enableRandomlyColoredTags: true
