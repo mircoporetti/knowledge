@@ -82,7 +82,7 @@ publishing:
     copyAssets: true
     siteHierarchies:
         - root
-    enableSiteLastModified: true
+    enableSiteLastModified: false
     siteRootDir: docs
     siteUrl: 'https://mircoporetti.me/'
     enableFrontmatterTags: true
