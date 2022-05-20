@@ -1,6 +1,6 @@
 ---
 id: 4fy7vwy0xqo4ma195iask8n
-title: Anterior Pelvic Tilt
+title: Anterior_pelvic_tilt
 desc: ''
 updated: 1653067330414
 created: 1653067011138
