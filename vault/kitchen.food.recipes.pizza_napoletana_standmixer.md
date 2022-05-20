@@ -2,7 +2,7 @@
 id: su750gvr3hwfzes206knk1d
 title: Pizza Napoletana (Stand Mixer, High Hydration)
 desc: ''
-updated: 1653065583042
+updated: 1653075832481
 created: 1653063079218
 ---
 
@@ -20,7 +20,7 @@ Process:
 2. Add 600g of water and wait for a compact mixture
 3. Add slowly other water on the border, rising a little bit the speed
 4. Add the salt
-5. Add the remaining water
+5. Add the remaining water and continue for 12 mins
 6. Cover the bowl and put it in the fridge for 20 mins
 7. Mix again, middle speed, for 3 mins
 8. Again in the fridge for 15 mins
