@@ -2,7 +2,7 @@
 id: su750gvr3hwfzes206knk1d
 title: Pizza Napoletana (Stand Mixer, High Hydration)
 desc: ''
-updated: 1653075832481
+updated: 1653076043915
 created: 1653063079218
 ---
 
@@ -24,8 +24,8 @@ Process:
 6. Cover the bowl and put it in the fridge for 20 mins
 7. Mix again, middle speed, for 3 mins
 8. Again in the fridge for 15 mins
-9. Knead by hand to make it stronger and put it into a container for 1 hour (room TEMP)
-10. Make a ball by hand and put it again into a container with olive oil. put it in the fridge for 16 hours.
+9. Knead by hand to make it stronger and put it into an oiled container for 1 hour (room TEMP)
+10. Make a ball by hand and put it again into the container. Add oil on the ball and put it in the fridge for 16 hours.
 11. Make small balls and let them rest for 2 hours (room TEMP)
 12. Perfect temperature: 380°C
 
