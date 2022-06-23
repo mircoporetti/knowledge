@@ -15,3 +15,7 @@ created: 1653732483392
 ## Keto
 
 * [Effect of a very low-carbohydrate ketogenic diet vs recommended diets in patients with type 2 diabetes](https://pubmed.ncbi.nlm.nih.gov/34338787/)
+
+## Drinks
+
+* [Green Tea and Its Relation to Human Gut Microbiome](https://pubmed.ncbi.nlm.nih.gov/34206736/)
