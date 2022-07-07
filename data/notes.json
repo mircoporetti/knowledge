@@ -1,0 +1,417 @@
+{
+  "notes": {
+    "403": {
+      "vault": {
+        "fsPath": "vault"
+      },
+      "fname": "403",
+      "id": "403",
+      "title": "This page has not yet sprouted",
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1657179898009,
+      "created": 1657179898009,
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": null,
+      "data": {}
+    },
+    "wn8PE1RhG0znK1alrGFYv": {
+      "id": "wn8PE1RhG0znK1alrGFYv",
+      "title": "Knowledge",
+      "desc": "",
+      "updated": 1653052058421,
+      "created": 1631901573363,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "root",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "b500019acb88c6ee12fd13841e186668",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "427tmwxym406ososu8y3vl8",
+        "vha3f8oqcnooj9rrefcz88i",
+        "jxasabq7287c71d489xejxd"
+      ],
+      "parent": null,
+      "data": {}
+    },
+    "jxasabq7287c71d489xejxd": {
+      "fname": "science",
+      "stub": true,
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1657179897955,
+      "created": 1657179897955,
+      "id": "jxasabq7287c71d489xejxd",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "hw9bu6mmfwuijtuvshcquit"
+      ],
+      "parent": "wn8PE1RhG0znK1alrGFYv",
+      "data": {},
+      "title": "Science"
+    },
+    "hw9bu6mmfwuijtuvshcquit": {
+      "fname": "science.health",
+      "stub": true,
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1657179897955,
+      "created": 1657179897956,
+      "id": "hw9bu6mmfwuijtuvshcquit",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "9ajzavmxa138ziq40bf9syi"
+      ],
+      "parent": "jxasabq7287c71d489xejxd",
+      "data": {},
+      "title": "Health"
+    },
+    "9ajzavmxa138ziq40bf9syi": {
+      "id": "9ajzavmxa138ziq40bf9syi",
+      "title": "Studies",
+      "desc": "",
+      "updated": 1657179707448,
+      "created": 1653732483392,
+      "custom": {},
+      "fname": "science.health.studies",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "e532f2fed454f14ae7344a1e8acfd4d0",
+      "links": [],
+      "anchors": {
+        "posture-and-digestion": {
+          "type": "header",
+          "text": "Posture and Digestion",
+          "value": "posture-and-digestion",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "keto": {
+          "type": "header",
+          "text": "Keto",
+          "value": "keto",
+          "line": 14,
+          "column": 0,
+          "depth": 2
+        },
+        "drinks": {
+          "type": "header",
+          "text": "Drinks",
+          "value": "drinks",
+          "line": 18,
+          "column": 0,
+          "depth": 2
+        },
+        "covid": {
+          "type": "header",
+          "text": "Covid",
+          "value": "covid",
+          "line": 22,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "hw9bu6mmfwuijtuvshcquit",
+      "data": {}
+    },
+    "vha3f8oqcnooj9rrefcz88i": {
+      "id": "vha3f8oqcnooj9rrefcz88i",
+      "title": "Kitchen",
+      "desc": "",
+      "updated": 1653062496436,
+      "created": 1653062481809,
+      "custom": {},
+      "fname": "kitchen",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "089035b67cc7be019352c2030c67e6c1",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "ptddeqpbptyvwg9gsq4urjx"
+      ],
+      "parent": "wn8PE1RhG0znK1alrGFYv",
+      "data": {}
+    },
+    "ptddeqpbptyvwg9gsq4urjx": {
+      "id": "ptddeqpbptyvwg9gsq4urjx",
+      "title": "Food",
+      "desc": "",
+      "updated": 1653062548177,
+      "created": 1653062548177,
+      "custom": {},
+      "fname": "kitchen.food",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "5136fda016ed2284a0276697036ae8b1",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "tpdvr8p9tind4cottmpcyzv"
+      ],
+      "parent": "vha3f8oqcnooj9rrefcz88i",
+      "data": {}
+    },
+    "tpdvr8p9tind4cottmpcyzv": {
+      "id": "tpdvr8p9tind4cottmpcyzv",
+      "title": "Recipes",
+      "desc": "",
+      "updated": 1653062608236,
+      "created": 1653062608236,
+      "custom": {},
+      "fname": "kitchen.food.recipes",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "983967911c9c5e4ab0f8813146257700",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "su750gvr3hwfzes206knk1d"
+      ],
+      "parent": "ptddeqpbptyvwg9gsq4urjx",
+      "data": {}
+    },
+    "su750gvr3hwfzes206knk1d": {
+      "id": "su750gvr3hwfzes206knk1d",
+      "title": "Pizza Napoletana (Stand Mixer, High Hydration)",
+      "desc": "",
+      "updated": 1653077376589,
+      "created": 1653063079218,
+      "custom": {},
+      "fname": "kitchen.food.recipes.pizza_napoletana_standmixer",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "e710b0a9faf1d84bfc88cd83d7ae8bed",
+      "links": [],
+      "anchors": {
+        "ingredients": {
+          "type": "header",
+          "text": "Ingredients:",
+          "value": "ingredients",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        },
+        "process": {
+          "type": "header",
+          "text": "Process:",
+          "value": "process",
+          "line": 17,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "tpdvr8p9tind4cottmpcyzv",
+      "data": {}
+    },
+    "427tmwxym406ososu8y3vl8": {
+      "id": "427tmwxym406ososu8y3vl8",
+      "title": "Fitness",
+      "desc": "",
+      "updated": 1653066945668,
+      "created": 1653066942660,
+      "custom": {},
+      "fname": "fitness",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "b72e3213fa89f285e80697dd21c1e1f3",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "t1ehzm1d7ex1tw40u0c32te"
+      ],
+      "parent": "wn8PE1RhG0znK1alrGFYv",
+      "data": {}
+    },
+    "t1ehzm1d7ex1tw40u0c32te": {
+      "id": "t1ehzm1d7ex1tw40u0c32te",
+      "title": "Posture",
+      "desc": "",
+      "updated": 1653066991333,
+      "created": 1653066991333,
+      "custom": {},
+      "fname": "fitness.posture",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "e75fa26cbdc37234334c3516f675b85d",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "4fy7vwy0xqo4ma195iask8n",
+        "0514jl0vkhiavnpym3sdmfi"
+      ],
+      "parent": "427tmwxym406ososu8y3vl8",
+      "data": {}
+    },
+    "0514jl0vkhiavnpym3sdmfi": {
+      "id": "0514jl0vkhiavnpym3sdmfi",
+      "title": "Rounded Shoulders",
+      "desc": "",
+      "updated": 1653077777990,
+      "created": 1653076384237,
+      "custom": {},
+      "fname": "fitness.posture.rounded_shoulders",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "345b0a8b20f4c7734658016ff82e22c6",
+      "links": [],
+      "anchors": {
+        "what-needs-to-be-strengthened": {
+          "type": "header",
+          "text": "What needs to be strengthened:",
+          "value": "what-needs-to-be-strengthened",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "what-needs-to-be-stretched": {
+          "type": "header",
+          "text": "What needs to be stretched:",
+          "value": "what-needs-to-be-stretched",
+          "line": 13,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "t1ehzm1d7ex1tw40u0c32te",
+      "data": {}
+    },
+    "4fy7vwy0xqo4ma195iask8n": {
+      "id": "4fy7vwy0xqo4ma195iask8n",
+      "title": "Anterior Pelvic Tilt",
+      "desc": "",
+      "updated": 1653067909606,
+      "created": 1653067011138,
+      "custom": {},
+      "fname": "fitness.posture.anterior_pelvic_tilt",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "c27d2602583c35e0f1a99e5562575c20",
+      "links": [],
+      "anchors": {
+        "what-needs-to-be-strengthened": {
+          "type": "header",
+          "text": "What needs to be strengthened:",
+          "value": "what-needs-to-be-strengthened",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "what-needs-to-be-stretched": {
+          "type": "header",
+          "text": "What needs to be stretched:",
+          "value": "what-needs-to-be-stretched",
+          "line": 14,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "t1ehzm1d7ex1tw40u0c32te",
+      "data": {}
+    }
+  },
+  "domains": [
+    {
+      "id": "wn8PE1RhG0znK1alrGFYv",
+      "title": "Knowledge",
+      "desc": "",
+      "updated": 1653052058421,
+      "created": 1631901573363,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "root",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "b500019acb88c6ee12fd13841e186668",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "427tmwxym406ososu8y3vl8",
+        "vha3f8oqcnooj9rrefcz88i",
+        "jxasabq7287c71d489xejxd"
+      ],
+      "parent": null,
+      "data": {},
+      "body": "\n"
+    }
+  ],
+  "noteIndex": {
+    "id": "wn8PE1RhG0znK1alrGFYv",
+    "title": "Knowledge",
+    "desc": "",
+    "updated": 1653052058421,
+    "created": 1631901573363,
+    "custom": {
+      "nav_order": 0,
+      "permalink": "/"
+    },
+    "fname": "root",
+    "type": "note",
+    "vault": {
+      "fsPath": "vault"
+    },
+    "contentHash": "b500019acb88c6ee12fd13841e186668",
+    "links": [],
+    "anchors": {},
+    "children": [
+      "427tmwxym406ososu8y3vl8",
+      "vha3f8oqcnooj9rrefcz88i",
+      "jxasabq7287c71d489xejxd"
+    ],
+    "parent": null,
+    "data": {},
+    "body": "\n"
+  },
+  "vaults": [
+    {
+      "fsPath": "vault"
+    }
+  ]
+}
