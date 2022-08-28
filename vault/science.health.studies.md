@@ -2,7 +2,7 @@
 id: 9ajzavmxa138ziq40bf9syi
 title: Studies
 desc: ''
-updated: 1653733600290
+updated: 1657179707448
 created: 1653732483392
 ---
 
@@ -19,3 +19,7 @@ created: 1653732483392
 ## Drinks
 
 * [Green Tea and Its Relation to Human Gut Microbiome](https://pubmed.ncbi.nlm.nih.gov/34206736/)
+
+## Covid
+
+* [A naturopathic treatment approach for mild and moderate COVID-19: A retrospective chart review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8570825/)
