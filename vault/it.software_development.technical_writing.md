@@ -6,7 +6,7 @@ updated: 1736442378645
 created: 1736438595650
 ---
 
-# *** Part 1 ***
+# Part 1
 
 ## Abbreviations
 
