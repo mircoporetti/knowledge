@@ -6,8 +6,6 @@ updated: 1736442378645
 created: 1736438595650
 ---
 
-# Part 1
-
 ## Abbreviations
 
 Yesterday I created a Pull Request (PR). The PR covered X use cases
