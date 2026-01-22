@@ -82,6 +82,7 @@ preview:
     enableFrontmatterTags: true
     enableHashesForFMTags: false
 publishing:
+    customHeaderPath: header.html
     enableFMTitle: true
     enableNoteTitleForLink: true
     enableMermaid: true

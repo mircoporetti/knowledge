@@ -11,12 +11,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout source
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
       with:
         fetch-depth: 0
 
     - name: Restore Node modules cache
-      uses: actions/cache@v2
+      uses: actions/cache@v4
       id: node-modules-cache
       with:
         path: |
@@ -24,13 +24,13 @@ jobs:
           .next/*
           !.next/.next/cache
           !.next/.env.*
-        key: ${{ runner.os }}-dendronv2-${{ hashFiles('**/yarn.lock', '**/package-lock.json') }}-2
+        key: ${{ runner.os }}-dendronv2-${{ hashFiles('**/yarn.lock', '**/package-lock.json') }}-3
 
     - name: Install dependencies
       run: npm install
 
     - name: Restore Next cache
-      uses: actions/cache@v2
+      uses: actions/cache@v4
       with:
         path: .next/.next/cache
         # Generate a new cache whenever packages or source files change.
@@ -43,7 +43,7 @@ jobs:
       run: yarn dendron publish export --target github --yes
 
     - name: Deploy site
-      uses: peaceiris/actions-gh-pages@v3
+      uses: peaceiris/actions-gh-pages@v4
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_branch: pages
