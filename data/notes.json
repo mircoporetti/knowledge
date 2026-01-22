@@ -1,0 +1,971 @@
+{
+  "notes": {
+    "403": {
+      "vault": {
+        "fsPath": "vault"
+      },
+      "fname": "403",
+      "id": "403",
+      "title": "This page has not yet sprouted",
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1769079920268,
+      "created": 1769079920268,
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": null,
+      "data": {}
+    },
+    "wn8PE1RhG0znK1alrGFYv": {
+      "id": "wn8PE1RhG0znK1alrGFYv",
+      "title": "Knowledge",
+      "desc": "",
+      "updated": 1653052058421,
+      "created": 1631901573363,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "root",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "b500019acb88c6ee12fd13841e186668",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "427tmwxym406ososu8y3vl8",
+        "qlyp13dhorqnejqy9t6koun",
+        "vha3f8oqcnooj9rrefcz88i",
+        "8qub3t3e2yphpdqzb6vg5c4"
+      ],
+      "parent": null,
+      "data": {}
+    },
+    "8qub3t3e2yphpdqzb6vg5c4": {
+      "fname": "science",
+      "stub": true,
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1769079919952,
+      "created": 1769079919952,
+      "id": "8qub3t3e2yphpdqzb6vg5c4",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "frfuba0umn3kwyed2qxnhrl"
+      ],
+      "parent": "wn8PE1RhG0znK1alrGFYv",
+      "data": {},
+      "title": "Science"
+    },
+    "frfuba0umn3kwyed2qxnhrl": {
+      "fname": "science.health",
+      "stub": true,
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1769079919953,
+      "created": 1769079919953,
+      "id": "frfuba0umn3kwyed2qxnhrl",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "9ajzavmxa138ziq40bf9syi"
+      ],
+      "parent": "8qub3t3e2yphpdqzb6vg5c4",
+      "data": {},
+      "title": "Health"
+    },
+    "9ajzavmxa138ziq40bf9syi": {
+      "id": "9ajzavmxa138ziq40bf9syi",
+      "title": "Studies",
+      "desc": "",
+      "updated": 1657179707448,
+      "created": 1653732483392,
+      "custom": {},
+      "fname": "science.health.studies",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "e532f2fed454f14ae7344a1e8acfd4d0",
+      "links": [],
+      "anchors": {
+        "posture-and-digestion": {
+          "type": "header",
+          "text": "Posture and Digestion",
+          "value": "posture-and-digestion",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "keto": {
+          "type": "header",
+          "text": "Keto",
+          "value": "keto",
+          "line": 14,
+          "column": 0,
+          "depth": 2
+        },
+        "drinks": {
+          "type": "header",
+          "text": "Drinks",
+          "value": "drinks",
+          "line": 18,
+          "column": 0,
+          "depth": 2
+        },
+        "covid": {
+          "type": "header",
+          "text": "Covid",
+          "value": "covid",
+          "line": 22,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "frfuba0umn3kwyed2qxnhrl",
+      "data": {}
+    },
+    "vha3f8oqcnooj9rrefcz88i": {
+      "id": "vha3f8oqcnooj9rrefcz88i",
+      "title": "Kitchen",
+      "desc": "",
+      "updated": 1653062496436,
+      "created": 1653062481809,
+      "custom": {},
+      "fname": "kitchen",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "089035b67cc7be019352c2030c67e6c1",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "ptddeqpbptyvwg9gsq4urjx",
+        "6wd1mxsahgtjr2649twox9j",
+        "3da7aky5sgbs0sbwnxoxrbd"
+      ],
+      "parent": "wn8PE1RhG0znK1alrGFYv",
+      "data": {}
+    },
+    "3da7aky5sgbs0sbwnxoxrbd": {
+      "fname": "kitchen.drink",
+      "stub": true,
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1769079919952,
+      "created": 1769079919952,
+      "id": "3da7aky5sgbs0sbwnxoxrbd",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "eo603jnb9lw57qu6nckk92f"
+      ],
+      "parent": "vha3f8oqcnooj9rrefcz88i",
+      "data": {},
+      "title": "Drink"
+    },
+    "eo603jnb9lw57qu6nckk92f": {
+      "id": "eo603jnb9lw57qu6nckk92f",
+      "title": "Kombucha",
+      "desc": "",
+      "updated": 1661768428149,
+      "created": 1661768378256,
+      "custom": {},
+      "fname": "kitchen.drink.kombucha",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "643629d90d30223bdd0005d39f0728a4",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "3da7aky5sgbs0sbwnxoxrbd",
+      "data": {}
+    },
+    "6wd1mxsahgtjr2649twox9j": {
+      "fname": "kitchen.diet",
+      "stub": true,
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1769079919951,
+      "created": 1769079919951,
+      "id": "6wd1mxsahgtjr2649twox9j",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "74rkn9takzl1zd38duhical"
+      ],
+      "parent": "vha3f8oqcnooj9rrefcz88i",
+      "data": {},
+      "title": "Diet"
+    },
+    "74rkn9takzl1zd38duhical": {
+      "id": "74rkn9takzl1zd38duhical",
+      "title": "Autoimmune paleo diet",
+      "desc": "",
+      "updated": 1663854779114,
+      "created": 1663853610923,
+      "custom": {},
+      "fname": "kitchen.diet.aip",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "5f92d2b77b0203654eca4a9f15ccf6cd",
+      "links": [],
+      "anchors": {
+        "allowed": {
+          "type": "header",
+          "text": "Allowed",
+          "value": "allowed",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "vegetables": {
+          "type": "header",
+          "text": "VEGETABLES",
+          "value": "vegetables",
+          "line": 10,
+          "column": 0,
+          "depth": 3
+        },
+        "fruits": {
+          "type": "header",
+          "text": "FRUITS",
+          "value": "fruits",
+          "line": 73,
+          "column": 0,
+          "depth": 3
+        },
+        "meats": {
+          "type": "header",
+          "text": "MEATS",
+          "value": "meats",
+          "line": 120,
+          "column": 0,
+          "depth": 3
+        },
+        "fish-and-seafood": {
+          "type": "header",
+          "text": "FISH AND SEAFOOD",
+          "value": "fish-and-seafood",
+          "line": 163,
+          "column": 0,
+          "depth": 3
+        },
+        "cooking-oils": {
+          "type": "header",
+          "text": "COOKING OILS",
+          "value": "cooking-oils",
+          "line": 197,
+          "column": 0,
+          "depth": 3
+        },
+        "herbs-and-spices": {
+          "type": "header",
+          "text": "HERBS AND SPICES",
+          "value": "herbs-and-spices",
+          "line": 220,
+          "column": 0,
+          "depth": 3
+        },
+        "fruits-and-berries-that-are-used-as-spices": {
+          "type": "header",
+          "text": "FRUITS AND BERRIES THAT ARE USED AS SPICES",
+          "value": "fruits-and-berries-that-are-used-as-spices",
+          "line": 256,
+          "column": 0,
+          "depth": 3
+        },
+        "fermented-foods": {
+          "type": "header",
+          "text": "FERMENTED FOODS",
+          "value": "fermented-foods",
+          "line": 272,
+          "column": 0,
+          "depth": 3
+        },
+        "others": {
+          "type": "header",
+          "text": "OTHERS",
+          "value": "others",
+          "line": 282,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [],
+      "parent": "6wd1mxsahgtjr2649twox9j",
+      "data": {}
+    },
+    "ptddeqpbptyvwg9gsq4urjx": {
+      "id": "ptddeqpbptyvwg9gsq4urjx",
+      "title": "Food",
+      "desc": "",
+      "updated": 1653062548177,
+      "created": 1653062548177,
+      "custom": {},
+      "fname": "kitchen.food",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "5136fda016ed2284a0276697036ae8b1",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "tpdvr8p9tind4cottmpcyzv"
+      ],
+      "parent": "vha3f8oqcnooj9rrefcz88i",
+      "data": {}
+    },
+    "tpdvr8p9tind4cottmpcyzv": {
+      "id": "tpdvr8p9tind4cottmpcyzv",
+      "title": "Recipes",
+      "desc": "",
+      "updated": 1653062608236,
+      "created": 1653062608236,
+      "custom": {},
+      "fname": "kitchen.food.recipes",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "983967911c9c5e4ab0f8813146257700",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "su750gvr3hwfzes206knk1d"
+      ],
+      "parent": "ptddeqpbptyvwg9gsq4urjx",
+      "data": {}
+    },
+    "su750gvr3hwfzes206knk1d": {
+      "id": "su750gvr3hwfzes206knk1d",
+      "title": "Pizza Napoletana (Stand Mixer, High Hydration)",
+      "desc": "",
+      "updated": 1653077376589,
+      "created": 1653063079218,
+      "custom": {},
+      "fname": "kitchen.food.recipes.pizza_napoletana_standmixer",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "e710b0a9faf1d84bfc88cd83d7ae8bed",
+      "links": [],
+      "anchors": {
+        "ingredients": {
+          "type": "header",
+          "text": "Ingredients:",
+          "value": "ingredients",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        },
+        "process": {
+          "type": "header",
+          "text": "Process:",
+          "value": "process",
+          "line": 17,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "tpdvr8p9tind4cottmpcyzv",
+      "data": {}
+    },
+    "qlyp13dhorqnejqy9t6koun": {
+      "id": "qlyp13dhorqnejqy9t6koun",
+      "title": "IT",
+      "desc": "",
+      "updated": 1664445716878,
+      "created": 1663925439270,
+      "custom": {},
+      "fname": "it",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "b57307db8f5335cbcd1207728d36a413",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "1twbbzg1kdp16xz54xfnkpq",
+        "4ydzz6q4z7ga3vypt8751kg"
+      ],
+      "parent": "wn8PE1RhG0znK1alrGFYv",
+      "data": {}
+    },
+    "4ydzz6q4z7ga3vypt8751kg": {
+      "fname": "it.commands",
+      "stub": true,
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1769079919949,
+      "created": 1769079919949,
+      "id": "4ydzz6q4z7ga3vypt8751kg",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "2398d8s6s1z78vjkoo5kycj",
+        "5dwk3kkllrvo0d8r3o8u1r9",
+        "c98lll6vrb8l705bp9auyz0",
+        "y7eyo7nkivx01wx9o0g3c6o"
+      ],
+      "parent": "qlyp13dhorqnejqy9t6koun",
+      "data": {},
+      "title": "Commands"
+    },
+    "y7eyo7nkivx01wx9o0g3c6o": {
+      "id": "y7eyo7nkivx01wx9o0g3c6o",
+      "title": "Helm",
+      "desc": "",
+      "updated": 1664273347510,
+      "created": 1664272390480,
+      "custom": {},
+      "fname": "it.commands.helm",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "80ec699b27e3868a24240b2f02da887f",
+      "links": [],
+      "anchors": {
+        "list": {
+          "type": "header",
+          "text": "List",
+          "value": "list",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "use-template": {
+          "type": "header",
+          "text": "Use Template",
+          "value": "use-template",
+          "line": 13,
+          "column": 0,
+          "depth": 2
+        },
+        "uninstall": {
+          "type": "header",
+          "text": "Uninstall",
+          "value": "uninstall",
+          "line": 18,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "4ydzz6q4z7ga3vypt8751kg",
+      "data": {}
+    },
+    "c98lll6vrb8l705bp9auyz0": {
+      "id": "c98lll6vrb8l705bp9auyz0",
+      "title": "Git",
+      "desc": "",
+      "updated": 1664273352718,
+      "created": 1663926762739,
+      "custom": {},
+      "fname": "it.commands.git",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "9fc535434b2269e553f8251cf4d1e151",
+      "links": [],
+      "anchors": {
+        "check-current-user-email": {
+          "type": "header",
+          "text": "Check current user email",
+          "value": "check-current-user-email",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "check-current-user-name": {
+          "type": "header",
+          "text": "Check current user name",
+          "value": "check-current-user-name",
+          "line": 13,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "4ydzz6q4z7ga3vypt8751kg",
+      "data": {}
+    },
+    "5dwk3kkllrvo0d8r3o8u1r9": {
+      "id": "5dwk3kkllrvo0d8r3o8u1r9",
+      "title": "DNS",
+      "desc": "",
+      "updated": 1663925723629,
+      "created": 1663925673244,
+      "custom": {},
+      "fname": "it.commands.DNS",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "e7d6fdf6b26f7ed571f62f90f7da0823",
+      "links": [],
+      "anchors": {
+        "check-dns": {
+          "type": "header",
+          "text": "Check DNS",
+          "value": "check-dns",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "4ydzz6q4z7ga3vypt8751kg",
+      "data": {}
+    },
+    "2398d8s6s1z78vjkoo5kycj": {
+      "id": "2398d8s6s1z78vjkoo5kycj",
+      "title": "CORS",
+      "desc": "",
+      "updated": 1663928697613,
+      "created": 1663928684974,
+      "custom": {},
+      "fname": "it.commands.CORS",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "3e2fdec17477f4b978c9386296999416",
+      "links": [],
+      "anchors": {
+        "how-to-test-cors": {
+          "type": "header",
+          "text": "How to test CORS",
+          "value": "how-to-test-cors",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "4ydzz6q4z7ga3vypt8751kg",
+      "data": {}
+    },
+    "1twbbzg1kdp16xz54xfnkpq": {
+      "id": "1twbbzg1kdp16xz54xfnkpq",
+      "title": "Software Development",
+      "desc": "",
+      "updated": 1661768297253,
+      "created": 1661682581032,
+      "custom": {},
+      "fname": "it.software_development",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "6a9ec3bd2475da9f3ad535169654c315",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "6gkyc621g7tj5lcz5bwxj3k",
+        "9kj8yepcwin9149mq9ka9gj"
+      ],
+      "parent": "qlyp13dhorqnejqy9t6koun",
+      "data": {}
+    },
+    "9kj8yepcwin9149mq9ka9gj": {
+      "id": "9kj8yepcwin9149mq9ka9gj",
+      "title": "Technical Writing",
+      "desc": "",
+      "updated": 1736442378645,
+      "created": 1736438595650,
+      "custom": {},
+      "fname": "it.software_development.technical_writing",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "f613944d490dd3e6c1dd4d275c10df56",
+      "links": [],
+      "anchors": {
+        "abbreviations": {
+          "type": "header",
+          "text": "Abbreviations",
+          "value": "abbreviations",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "pronouns": {
+          "type": "header",
+          "text": "Pronouns",
+          "value": "pronouns",
+          "line": 12,
+          "column": 0,
+          "depth": 2
+        },
+        "active-voice-vs-passive-voice": {
+          "type": "header",
+          "text": "Active voice vs Passive voice",
+          "value": "active-voice-vs-passive-voice",
+          "line": 26,
+          "column": 0,
+          "depth": 2
+        },
+        "clear-sentence": {
+          "type": "header",
+          "text": "Clear Sentence",
+          "value": "clear-sentence",
+          "line": 36,
+          "column": 0,
+          "depth": 2
+        },
+        "verbs": {
+          "type": "header",
+          "text": "Verbs",
+          "value": "verbs",
+          "line": 38,
+          "column": 0,
+          "depth": 3
+        },
+        "there-is-there-are": {
+          "type": "header",
+          "text": "There is/ There are",
+          "value": "there-is-there-are",
+          "line": 46,
+          "column": 0,
+          "depth": 3
+        },
+        "short-sentence": {
+          "type": "header",
+          "text": "Short Sentence",
+          "value": "short-sentence",
+          "line": 53,
+          "column": 0,
+          "depth": 2
+        },
+        "list-and-tables": {
+          "type": "header",
+          "text": "List and tables",
+          "value": "list-and-tables",
+          "line": 61,
+          "column": 0,
+          "depth": 2
+        },
+        "paragraphs": {
+          "type": "header",
+          "text": "Paragraphs",
+          "value": "paragraphs",
+          "line": 67,
+          "column": 0,
+          "depth": 2
+        },
+        "audience": {
+          "type": "header",
+          "text": "Audience",
+          "value": "audience",
+          "line": 73,
+          "column": 0,
+          "depth": 2
+        },
+        "documents": {
+          "type": "header",
+          "text": "Documents",
+          "value": "documents",
+          "line": 85,
+          "column": 0,
+          "depth": 2
+        },
+        "define-your-audiences-needs-and-organize-the-document-based-on-them": {
+          "type": "header",
+          "text": "Define your Audience's needs and organize the document based on them:",
+          "value": "define-your-audiences-needs-and-organize-the-document-based-on-them",
+          "line": 91,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [],
+      "parent": "1twbbzg1kdp16xz54xfnkpq",
+      "data": {}
+    },
+    "6gkyc621g7tj5lcz5bwxj3k": {
+      "id": "6gkyc621g7tj5lcz5bwxj3k",
+      "title": "Test Driven Development",
+      "desc": "",
+      "updated": 1661683695761,
+      "created": 1661682581014,
+      "custom": {},
+      "fname": "it.software_development.TDD",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "82584b498185eb0a125995a72312f998",
+      "links": [],
+      "anchors": {
+        "how-tests-should-be": {
+          "type": "header",
+          "text": "How tests should be",
+          "value": "how-tests-should-be",
+          "line": 20,
+          "column": 0,
+          "depth": 2
+        },
+        "outside-in-or-inside-out": {
+          "type": "header",
+          "text": "Outside in or Inside out",
+          "value": "outside-in-or-inside-out",
+          "line": 27,
+          "column": 0,
+          "depth": 2
+        },
+        "suggestions": {
+          "type": "header",
+          "text": "Suggestions",
+          "value": "suggestions",
+          "line": 31,
+          "column": 0,
+          "depth": 2
+        },
+        "mocks": {
+          "type": "header",
+          "text": "Mocks",
+          "value": "mocks",
+          "line": 42,
+          "column": 0,
+          "depth": 2
+        },
+        "thoughts": {
+          "type": "header",
+          "text": "Thoughts",
+          "value": "thoughts",
+          "line": 49,
+          "column": 0,
+          "depth": 2
+        },
+        "references": {
+          "type": "header",
+          "text": "References:",
+          "value": "references",
+          "line": 55,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [],
+      "parent": "1twbbzg1kdp16xz54xfnkpq",
+      "data": {}
+    },
+    "427tmwxym406ososu8y3vl8": {
+      "id": "427tmwxym406ososu8y3vl8",
+      "title": "Fitness",
+      "desc": "",
+      "updated": 1653066945668,
+      "created": 1653066942660,
+      "custom": {},
+      "fname": "fitness",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "b72e3213fa89f285e80697dd21c1e1f3",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "t1ehzm1d7ex1tw40u0c32te"
+      ],
+      "parent": "wn8PE1RhG0znK1alrGFYv",
+      "data": {}
+    },
+    "t1ehzm1d7ex1tw40u0c32te": {
+      "id": "t1ehzm1d7ex1tw40u0c32te",
+      "title": "Posture",
+      "desc": "",
+      "updated": 1653066991333,
+      "created": 1653066991333,
+      "custom": {},
+      "fname": "fitness.posture",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "e75fa26cbdc37234334c3516f675b85d",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "4fy7vwy0xqo4ma195iask8n",
+        "0514jl0vkhiavnpym3sdmfi"
+      ],
+      "parent": "427tmwxym406ososu8y3vl8",
+      "data": {}
+    },
+    "0514jl0vkhiavnpym3sdmfi": {
+      "id": "0514jl0vkhiavnpym3sdmfi",
+      "title": "Rounded Shoulders",
+      "desc": "",
+      "updated": 1653077777990,
+      "created": 1653076384237,
+      "custom": {},
+      "fname": "fitness.posture.rounded_shoulders",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "345b0a8b20f4c7734658016ff82e22c6",
+      "links": [],
+      "anchors": {
+        "what-needs-to-be-strengthened": {
+          "type": "header",
+          "text": "What needs to be strengthened:",
+          "value": "what-needs-to-be-strengthened",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "what-needs-to-be-stretched": {
+          "type": "header",
+          "text": "What needs to be stretched:",
+          "value": "what-needs-to-be-stretched",
+          "line": 13,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "t1ehzm1d7ex1tw40u0c32te",
+      "data": {}
+    },
+    "4fy7vwy0xqo4ma195iask8n": {
+      "id": "4fy7vwy0xqo4ma195iask8n",
+      "title": "Anterior Pelvic Tilt",
+      "desc": "",
+      "updated": 1653067909606,
+      "created": 1653067011138,
+      "custom": {},
+      "fname": "fitness.posture.anterior_pelvic_tilt",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "c27d2602583c35e0f1a99e5562575c20",
+      "links": [],
+      "anchors": {
+        "what-needs-to-be-strengthened": {
+          "type": "header",
+          "text": "What needs to be strengthened:",
+          "value": "what-needs-to-be-strengthened",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "what-needs-to-be-stretched": {
+          "type": "header",
+          "text": "What needs to be stretched:",
+          "value": "what-needs-to-be-stretched",
+          "line": 14,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "t1ehzm1d7ex1tw40u0c32te",
+      "data": {}
+    }
+  },
+  "domains": [
+    {
+      "id": "wn8PE1RhG0znK1alrGFYv",
+      "title": "Knowledge",
+      "desc": "",
+      "updated": 1653052058421,
+      "created": 1631901573363,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "root",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "b500019acb88c6ee12fd13841e186668",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "427tmwxym406ososu8y3vl8",
+        "qlyp13dhorqnejqy9t6koun",
+        "vha3f8oqcnooj9rrefcz88i",
+        "8qub3t3e2yphpdqzb6vg5c4"
+      ],
+      "parent": null,
+      "data": {},
+      "body": "\n"
+    }
+  ],
+  "noteIndex": {
+    "id": "wn8PE1RhG0znK1alrGFYv",
+    "title": "Knowledge",
+    "desc": "",
+    "updated": 1653052058421,
+    "created": 1631901573363,
+    "custom": {
+      "nav_order": 0,
+      "permalink": "/"
+    },
+    "fname": "root",
+    "type": "note",
+    "vault": {
+      "fsPath": "vault"
+    },
+    "contentHash": "b500019acb88c6ee12fd13841e186668",
+    "links": [],
+    "anchors": {},
+    "children": [
+      "427tmwxym406ososu8y3vl8",
+      "qlyp13dhorqnejqy9t6koun",
+      "vha3f8oqcnooj9rrefcz88i",
+      "8qub3t3e2yphpdqzb6vg5c4"
+    ],
+    "parent": null,
+    "data": {},
+    "body": "\n"
+  },
+  "vaults": [
+    {
+      "fsPath": "vault"
+    }
+  ]
+}

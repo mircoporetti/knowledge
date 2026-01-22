@@ -1,0 +1,270 @@
+{
+  "roots": [
+    {
+      "key": "wn8PE1RhG0znK1alrGFYv",
+      "title": "Knowledge",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "vault",
+      "navExclude": false,
+      "children": [
+        {
+          "key": "427tmwxym406ososu8y3vl8",
+          "title": "Fitness",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "t1ehzm1d7ex1tw40u0c32te",
+              "title": "Posture",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "4fy7vwy0xqo4ma195iask8n",
+                  "title": "Anterior Pelvic Tilt",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "0514jl0vkhiavnpym3sdmfi",
+                  "title": "Rounded Shoulders",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "qlyp13dhorqnejqy9t6koun",
+          "title": "IT",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "4ydzz6q4z7ga3vypt8751kg",
+              "title": "Commands",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "2398d8s6s1z78vjkoo5kycj",
+                  "title": "CORS",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "5dwk3kkllrvo0d8r3o8u1r9",
+                  "title": "DNS",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "c98lll6vrb8l705bp9auyz0",
+                  "title": "Git",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "y7eyo7nkivx01wx9o0g3c6o",
+                  "title": "Helm",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "1twbbzg1kdp16xz54xfnkpq",
+              "title": "Software Development",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "9kj8yepcwin9149mq9ka9gj",
+                  "title": "Technical Writing",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "6gkyc621g7tj5lcz5bwxj3k",
+                  "title": "Test Driven Development",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "vha3f8oqcnooj9rrefcz88i",
+          "title": "Kitchen",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "6wd1mxsahgtjr2649twox9j",
+              "title": "Diet",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "74rkn9takzl1zd38duhical",
+                  "title": "Autoimmune paleo diet",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "3da7aky5sgbs0sbwnxoxrbd",
+              "title": "Drink",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "eo603jnb9lw57qu6nckk92f",
+                  "title": "Kombucha",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "ptddeqpbptyvwg9gsq4urjx",
+              "title": "Food",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "tpdvr8p9tind4cottmpcyzv",
+                  "title": "Recipes",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "navExclude": false,
+                  "children": [
+                    {
+                      "key": "su750gvr3hwfzes206knk1d",
+                      "title": "Pizza Napoletana (Stand Mixer, High Hydration)",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "vault",
+                      "navExclude": false,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "8qub3t3e2yphpdqzb6vg5c4",
+          "title": "Science",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "frfuba0umn3kwyed2qxnhrl",
+              "title": "Health",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "9ajzavmxa138ziq40bf9syi",
+                  "title": "Studies",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "child2parent": {
+    "403": null,
+    "wn8PE1RhG0znK1alrGFYv": null,
+    "8qub3t3e2yphpdqzb6vg5c4": "wn8PE1RhG0znK1alrGFYv",
+    "frfuba0umn3kwyed2qxnhrl": "8qub3t3e2yphpdqzb6vg5c4",
+    "9ajzavmxa138ziq40bf9syi": "frfuba0umn3kwyed2qxnhrl",
+    "vha3f8oqcnooj9rrefcz88i": "wn8PE1RhG0znK1alrGFYv",
+    "3da7aky5sgbs0sbwnxoxrbd": "vha3f8oqcnooj9rrefcz88i",
+    "eo603jnb9lw57qu6nckk92f": "3da7aky5sgbs0sbwnxoxrbd",
+    "6wd1mxsahgtjr2649twox9j": "vha3f8oqcnooj9rrefcz88i",
+    "74rkn9takzl1zd38duhical": "6wd1mxsahgtjr2649twox9j",
+    "ptddeqpbptyvwg9gsq4urjx": "vha3f8oqcnooj9rrefcz88i",
+    "tpdvr8p9tind4cottmpcyzv": "ptddeqpbptyvwg9gsq4urjx",
+    "su750gvr3hwfzes206knk1d": "tpdvr8p9tind4cottmpcyzv",
+    "qlyp13dhorqnejqy9t6koun": "wn8PE1RhG0znK1alrGFYv",
+    "4ydzz6q4z7ga3vypt8751kg": "qlyp13dhorqnejqy9t6koun",
+    "y7eyo7nkivx01wx9o0g3c6o": "4ydzz6q4z7ga3vypt8751kg",
+    "c98lll6vrb8l705bp9auyz0": "4ydzz6q4z7ga3vypt8751kg",
+    "5dwk3kkllrvo0d8r3o8u1r9": "4ydzz6q4z7ga3vypt8751kg",
+    "2398d8s6s1z78vjkoo5kycj": "4ydzz6q4z7ga3vypt8751kg",
+    "1twbbzg1kdp16xz54xfnkpq": "qlyp13dhorqnejqy9t6koun",
+    "9kj8yepcwin9149mq9ka9gj": "1twbbzg1kdp16xz54xfnkpq",
+    "6gkyc621g7tj5lcz5bwxj3k": "1twbbzg1kdp16xz54xfnkpq",
+    "427tmwxym406ososu8y3vl8": "wn8PE1RhG0znK1alrGFYv",
+    "t1ehzm1d7ex1tw40u0c32te": "427tmwxym406ososu8y3vl8",
+    "0514jl0vkhiavnpym3sdmfi": "t1ehzm1d7ex1tw40u0c32te",
+    "4fy7vwy0xqo4ma195iask8n": "t1ehzm1d7ex1tw40u0c32te"
+  }
+}
